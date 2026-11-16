@@ -1,1 +1,1 @@
-Testing pull request
+New features added in version 1.1
